@@ -1,3 +1,3 @@
 ## blog-cards
-## HTML && CSS
+#### HTML && CSS
 ###### Following along with the amazing Brad Traversy
